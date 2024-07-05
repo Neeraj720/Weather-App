@@ -12,7 +12,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(150,150,160);
+    /* background-color: rgb(150,150,160); */
+    background-image: url('Images/web.jpg');
+    background-size: cover;
 }
 .container{
     width: 400px;
